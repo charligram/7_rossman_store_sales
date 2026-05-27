@@ -1,0 +1,8 @@
+# Conf de vscode
+.vscode/
+
+# Entorno virtual
+venv/
+
+# Data
+data/
