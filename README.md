@@ -193,3 +193,24 @@ Además, se concluye que los modelos generados de Machine Learning cumplen con l
 
 ## 👤 Autor
 Carlos Rojas Villegas
+
+## Adicional
+- Para la ejecución y prueba del proyecto se recomienda la siguiente estructura de carpeta para los datos:
+
+proyecto/
+  |
+  |
+  |-data/
+    |
+    |--clean/
+    |
+    |--raw/
+    |
+    |--processed/
+  |
+  |
+  |-notebooks/
+  |
+  ...
+  
+
