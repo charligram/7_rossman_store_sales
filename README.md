@@ -199,13 +199,22 @@ Carlos Rojas Villegas
 
 
 proyecto/
+
 │
+
 ├── data/
+
 │   ├── raw/          # Datos originales
+
 │   ├── clean/        # Datos limpios
+
 │   └── processed/    # Datos transformados para ML
+
 │
+
 ├── notebooks/        # Jupyter Notebooks
+
 │
+
 │
 ...
